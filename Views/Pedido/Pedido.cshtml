@@ -1,0 +1,134 @@
+@model IEnumerable<FyJCel.Models.Pedido>
+
+<!-- bootstrap Navbar  !-->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+<!--
+<h2>Lista Productos</h2>
+!-->
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.zoom {
+  padding: 50px;
+  background-color: white;
+  transition: transform .2s;
+  width: 200px;
+  height: 100px;
+  margin: 0 auto;
+}
+
+.zoom:hover {
+  -ms-transform: scale(1.5); /* IE 9 */
+  -webkit-transform: scale(1.5); /* Safari 3-8 */
+  transform: scale(1.5); 
+}
+</style>
+
+<script language='JavaScript'>
+    function Buscar(){
+        var txt = document.getElementById("txtBuscar").value;
+
+        if(txt == "" ){
+            alert("Fecha no encontrada");
+        }
+        else{
+            window.location.href = "/Producto/Buscar?texto=" + txt;
+        }      
+    }
+               
+</script>
+
+<form asp-action="ProductosSelect" method="post">
+<table border="1" width="1100">
+    <tr>
+        <!-- <td width="200">Logo EASYMARKET</td> -->
+        <td wisth="900">
+            <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+                <!--<form class="form-inline" action="/action_page.php">-->
+                    <input width="700" name="txtBuscar" id="txtBuscar" class="form-control mr-sm-2" type="text" placeholder="Search">
+                    <a href="javascript:Buscar()"  class="btn btn-success">Search</a>&nbsp
+                    
+                    
+               <!-- </form>-->
+            </nav>
+        </td>
+    </tr>
+</table>
+
+<br>
+
+@{
+    if(ViewBag.mensajeGrabar != null)
+    {
+        <div class="alert alert-primary alert-dismissible fade show" role="alert">
+        <strong>@ViewBag.mensajeGrabar</strong>
+        <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+        </button>
+        </div>
+    }
+}
+
+
+<table class="table table-hover">
+    <thead class="thead-dark">
+        <tr>
+                
+                <th scope="col">
+                   Codigo del Producto 
+                </th>
+
+                <th scope="col">
+                    Precio del Producto Unidad.
+                </th>
+                <th scope="col">
+                    Cantidad
+                </th>
+                <th scope="col">
+                    Nombre Usuario
+                </th>
+                <th scope="col">
+                    Fecha
+                </th>
+                <th scope="col">
+                    Estado
+                </th>
+                
+                
+        </tr>
+    </thead>
+    <tbody>
+
+@foreach (var item in Model)
+{
+        <tr>
+            <td>
+ 				@Html.DisplayFor(modelItem => item.pedi_id_produ)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.pedi_precio)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.pedi_cantidad)
+            </td>
+            
+            <td>
+                @Html.DisplayFor(modelItem => item.pedi_nombres)
+            </td>
+            <td>
+                @Html.Encode(item.pedi_fecha.ToShortDateString())
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.pedi_estado)
+            </td>
+             
+        </tr>
+}        
+    </tbody>
+</table>
+</form>

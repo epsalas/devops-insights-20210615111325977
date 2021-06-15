@@ -1,0 +1,153 @@
+@model IEnumerable<FyJCel.Models.Producto>
+
+<!-- bootstrap Navbar  !-->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+<!--
+<h2>Lista Productos</h2>
+-->
+<script language='JavaScript'>
+    $(document).on('click','.btn-eliminar', function(e){
+        e.preventDefault();
+        var row = $(this).parent().parent().remove();
+      
+    })
+
+    
+    function showContent() {
+            element = document.getElementById("content");
+            check = document.getElementById("check");
+            if (check.checked) {
+                element.style.display='block';
+            }
+            else {
+                element.style.display='none';
+            }
+        }
+</script>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.zoom {
+  padding: 50px;
+  background-color: white;
+  transition: transform .2s;
+  width: 200px;
+  height: 100px;
+  margin: 0 auto;
+}
+
+.zoom:hover {
+  -ms-transform: scale(1.5); /* IE 9 */
+  -webkit-transform: scale(1.5); /* Safari 3-8 */
+  transform: scale(1.5); 
+}
+</style>
+
+
+<form asp-action="ProductosGrabar">
+  
+<table border="1" width="1200">
+    <tr>
+        <!-- <td width="200">Logo EASYMAR</td> -->
+        <td wisth="900">
+            <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+                <form class="form-inline" action="/action_page.php">
+                    <input width="700" class="form-control mr-sm-2" type="text" placeholder="Search">
+                    <button class="btn btn-success" type="submit">Search</button>&nbsp
+                    <button class="btn btn-primary " >Pagar</button>&nbsp
+                                        
+                </form>
+                
+            </nav>
+        </td>
+    </tr>
+</table>
+
+<table class="table table-hover" width="1200">
+    <thead class="thead-dark">
+        <tr>
+                <!-- <th scope="col">
+                    #
+                </th> -->
+                <th scope="col">
+                    Nombre del Producto<!--@Html.DisplayNameFor(model => model.prod_nombre)-->
+                </th>
+                <th scope="col">
+                    <p>Detalles <!--@Html.DisplayNameFor(model => model.prod_detalle)--></p>
+                </th>
+                <th scope="col">
+                    Imagen del Producto <!--@Html.DisplayNameFor(model => model.prod_imagen)-->
+                </th>
+                <th scope="col">
+                    Precio <!--@Html.DisplayNameFor(model => model.prod_precio)-->
+                </th>
+                <th scope="col">
+                    Cantidad
+                </th>
+                <th scope="col">Acción</th>
+        </tr>
+    </thead>
+    <tbody>
+
+@foreach (var item in Model)
+{
+        <tr>
+            <td ><strong>
+                @Html.DisplayFor(modelItem => item.prod_nombre)</strong>
+            </td>
+            <td>
+                <textarea disabled cols="60" rows="6" style="resize: none; border-style: none;">@Html.DisplayFor(modelItem => item.prod_detalle)</textarea>
+            </td>
+            <td class="zoom">
+                <img src="@Html.DisplayFor(modelItem => item.prod_imagen)"  width="250" height="150">
+            </td>  
+            <td>
+                @Html.DisplayFor(modelItem => item.prod_precio)
+            </td>
+            <td width="4ss0">
+                <input type="text" name="cantidades" value="">
+            </td>
+                
+            <td width="50">
+                <button     class="btn btn-primary btn-eliminar">Eliminar</button>
+            </td>
+
+                                 
+        </tr>
+}        
+    </tbody>
+
+</table>
+
+</form>
+<br/><br/>
+<label for="">Marque la casilla para confirmar los datos de entrega</label>
+<input type="checkbox" name="check" id="check" value="1" onchange="javascript:showContent()" />
+<div id="content" style="display: none;">
+    <form action="">
+        <label class="control-label">Direccion:</label>  
+        <input type="text" class="form-control"><br/>
+        <label class="control-label">Telefono:</label>  
+        <input type="text" class="form-control"><br/>
+        <label class="control-label">Nombre del contacto:</label>  
+        <input type="text" class="form-control"><br/>
+    </form>
+    Porfavor complete los campos para su envio<br/>
+    
+  </div>
+<br/><br/><br/><br/>
+<br/>
+
+@if(ViewBag.Message!=null){
+            <script type="text/javascript">
+                window.onload = function(){
+                    alert("@ViewBag.Message");
+                };
+            </script>
+}
+

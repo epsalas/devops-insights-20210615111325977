@@ -1,0 +1,172 @@
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\bin\Debug\netcoreapp3.1\FyJCel.StaticWebAssets.xml
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\bin\Debug\netcoreapp3.1\FyJCel.exe
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\bin\Debug\netcoreapp3.1\FyJCel.deps.json
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\bin\Debug\netcoreapp3.1\FyJCel.runtimeconfig.json
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\bin\Debug\netcoreapp3.1\FyJCel.runtimeconfig.dev.json
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\bin\Debug\netcoreapp3.1\FyJCel.dll
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\bin\Debug\netcoreapp3.1\FyJCel.pdb
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\bin\Debug\netcoreapp3.1\FyJCel.Views.dll
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\bin\Debug\netcoreapp3.1\FyJCel.Views.pdb
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\obj\Debug\netcoreapp3.1\FyJCel.csprojAssemblyReference.cache
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\obj\Debug\netcoreapp3.1\FyJCel.AssemblyInfoInputs.cache
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\obj\Debug\netcoreapp3.1\FyJCel.AssemblyInfo.cs
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\obj\Debug\netcoreapp3.1\FyJCel.csproj.CoreCompileInputs.cache
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\obj\Debug\netcoreapp3.1\FyJCel.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\obj\Debug\netcoreapp3.1\FyJCel.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\obj\Debug\netcoreapp3.1\FyJCel.RazorAssemblyInfo.cache
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\obj\Debug\netcoreapp3.1\FyJCel.RazorAssemblyInfo.cs
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\obj\Debug\netcoreapp3.1\staticwebassets\FyJCel.StaticWebAssets.Manifest.cache
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\obj\Debug\netcoreapp3.1\staticwebassets\FyJCel.StaticWebAssets.xml
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\obj\Debug\netcoreapp3.1\scopedcss\bundle\FyJCel.styles.css
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\obj\Debug\netcoreapp3.1\FyJCel.TagHelpers.input.cache
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\obj\Debug\netcoreapp3.1\FyJCel.TagHelpers.output.cache
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\obj\Debug\netcoreapp3.1\FyJCel.RazorCoreGenerate.cache
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\obj\Debug\netcoreapp3.1\FyJCel.RazorTargetAssemblyInfo.cache
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\obj\Debug\netcoreapp3.1\FyJCel.RazorTargetAssemblyInfo.cs
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\obj\Debug\netcoreapp3.1\FyJCel.Views.pdb
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\obj\Debug\netcoreapp3.1\FyJCel.csproj.CopyComplete
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\obj\Debug\netcoreapp3.1\FyJCel.dll
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\obj\Debug\netcoreapp3.1\FyJCel.pdb
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\obj\Debug\netcoreapp3.1\FyJCel.genruntimeconfig.cache
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\obj\Debug\netcoreapp3.1\Razor\Views\Producto\EditProducto.cshtml.g.cs
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\obj\Debug\netcoreapp3.1\Razor\Views\Producto\ListProducto.cshtml.g.cs
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\obj\Debug\netcoreapp3.1\Razor\Views\Producto\MantProducto.cshtml.g.cs
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\obj\Debug\netcoreapp3.1\Razor\Views\Producto\ProductosSelect.cshtml.g.cs
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\obj\Debug\netcoreapp3.1\Razor\Views\Producto\RegProducto.cshtml.g.cs
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ItemPartial.cshtml.g.cs
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\obj\Debug\netcoreapp3.1\Razor\Views\Contacto\Create.cshtml.g.cs
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\obj\Debug\netcoreapp3.1\Razor\Views\Contacto\Edit.cshtml.g.cs
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\obj\Debug\netcoreapp3.1\Razor\Views\Contacto\List.cshtml.g.cs
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\obj\Debug\netcoreapp3.1\Razor\Views\Producto\ConfirmProducto.cshtml.g.cs
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\obj\Debug\netcoreapp3.1\Razor\Views\Pedido\Pedido.cshtml.g.cs
+C:\Users\Core i7\Desktop\Nueva carpeta (3)\Proyecto\FyJCel\obj\Debug\netcoreapp3.1\Razor\Views\Reclamo\ReclamosProducto.cshtml.g.cs
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\bin\Debug\netcoreapp3.1\FyJCel.StaticWebAssets.xml
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\bin\Debug\netcoreapp3.1\FyJCel.exe
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\bin\Debug\netcoreapp3.1\FyJCel.deps.json
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\bin\Debug\netcoreapp3.1\FyJCel.runtimeconfig.json
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\bin\Debug\netcoreapp3.1\FyJCel.runtimeconfig.dev.json
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\bin\Debug\netcoreapp3.1\FyJCel.dll
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\bin\Debug\netcoreapp3.1\FyJCel.pdb
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\bin\Debug\netcoreapp3.1\FyJCel.Views.dll
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\bin\Debug\netcoreapp3.1\FyJCel.Views.pdb
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\obj\Debug\netcoreapp3.1\FyJCel.csprojAssemblyReference.cache
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\obj\Debug\netcoreapp3.1\FyJCel.AssemblyInfoInputs.cache
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\obj\Debug\netcoreapp3.1\FyJCel.AssemblyInfo.cs
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\obj\Debug\netcoreapp3.1\FyJCel.csproj.CoreCompileInputs.cache
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\obj\Debug\netcoreapp3.1\FyJCel.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\obj\Debug\netcoreapp3.1\FyJCel.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\obj\Debug\netcoreapp3.1\FyJCel.RazorAssemblyInfo.cache
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\obj\Debug\netcoreapp3.1\FyJCel.RazorAssemblyInfo.cs
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\obj\Debug\netcoreapp3.1\staticwebassets\FyJCel.StaticWebAssets.Manifest.cache
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\obj\Debug\netcoreapp3.1\staticwebassets\FyJCel.StaticWebAssets.xml
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\obj\Debug\netcoreapp3.1\scopedcss\bundle\FyJCel.styles.css
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\obj\Debug\netcoreapp3.1\FyJCel.TagHelpers.input.cache
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\obj\Debug\netcoreapp3.1\FyJCel.TagHelpers.output.cache
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\obj\Debug\netcoreapp3.1\FyJCel.RazorCoreGenerate.cache
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\obj\Debug\netcoreapp3.1\Razor\Views\Contacto\Create.cshtml.g.cs
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\obj\Debug\netcoreapp3.1\Razor\Views\Contacto\Edit.cshtml.g.cs
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\obj\Debug\netcoreapp3.1\Razor\Views\Contacto\List.cshtml.g.cs
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\obj\Debug\netcoreapp3.1\Razor\Views\Pedido\Pedido.cshtml.g.cs
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\obj\Debug\netcoreapp3.1\Razor\Views\Producto\ConfirmProducto.cshtml.g.cs
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\obj\Debug\netcoreapp3.1\Razor\Views\Producto\EditProducto.cshtml.g.cs
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\obj\Debug\netcoreapp3.1\Razor\Views\Producto\ListProducto.cshtml.g.cs
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\obj\Debug\netcoreapp3.1\Razor\Views\Producto\MantProducto.cshtml.g.cs
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\obj\Debug\netcoreapp3.1\Razor\Views\Producto\ProductosSelect.cshtml.g.cs
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\obj\Debug\netcoreapp3.1\Razor\Views\Producto\RegProducto.cshtml.g.cs
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\obj\Debug\netcoreapp3.1\Razor\Views\Reclamo\ReclamosProducto.cshtml.g.cs
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ItemPartial.cshtml.g.cs
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\obj\Debug\netcoreapp3.1\FyJCel.RazorTargetAssemblyInfo.cache
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\obj\Debug\netcoreapp3.1\FyJCel.RazorTargetAssemblyInfo.cs
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\obj\Debug\netcoreapp3.1\FyJCel.Views.pdb
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\obj\Debug\netcoreapp3.1\FyJCel.csproj.CopyComplete
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\obj\Debug\netcoreapp3.1\FyJCel.dll
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\obj\Debug\netcoreapp3.1\FyJCel.pdb
+C:\Users\Core i7\Desktop\Software 2 - Proyecto\Proyectocodigo\devops-insights-20210615111325977\obj\Debug\netcoreapp3.1\FyJCel.genruntimeconfig.cache

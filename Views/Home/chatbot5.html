@@ -1,0 +1,41 @@
+<html>
+    <head>
+        <script>
+            know = {
+                "Hola": "Hola, un gusto",
+                "Hi": "Hello",
+                "tengo una duda": "En que te puedo ayudar?",
+                "Me ayudas?": "Sí claro, comentame!",
+                "Necesito ayuda": "Con gusto, Comentame!",
+                "Como te llamas?": "MarketBot! en que te puedo ayudar?",
+                "Como me registro?": "Ingresa a la pagina principal de EasyMarketPeru y da clic en el enlace de Registrarse/Iniciar sesion, te puedo ayudar en algo mas?",
+                "Como puedo registrarme?": "Ingresa a la pagina principal de EasyMarketPeru y da clic en el enlace de Registrarse/Iniciar sesion, te puedo ayudar en algo mas?",
+                "Gracias por tu ayuda": "De nada, estamos para servirte",
+                "Gracias": "De nada, buen dia!",
+                "Como me puedo contactar con ustedes?": "Ingresa a Contactanos que se encuentra en las opciones del menu y completa el formulario!. Nosotros nos estaremos contactando contigo en las proximas 24 horas!",
+                "Tengo un problema": "Para consultas y/o reclamos ingresa a contactanos y completa el formulario. Nosotros nos contactaremos contigo en las proximas 24 horas!",
+                "Tengo un reclamo":"Para consultas y/o reclamos ingresa a contactanos y completa el formulario. Nosotros nos contactaremos contigo en las proximas 24 horas!",
+                "Chau": "Adios! Regresa pronto!",
+                "Adios": "Adios! Regresa pronto!",
+                "Muchas gracias, adios": "Adios! Regresa pronto!",
+                "how are you?" : "good",
+                "ok" : ":)"
+            };
+            function talk() {
+                var user = document.getElementById("userBox").value;
+                document.getElementById("userBox").value = "";
+                document.getElementById("chatLog").innerHTML += user+"<br>";
+                if (user in know) {
+                    document.getElementById("chatLog").innerHTML += know[user]+"<br>";
+                } else {
+                    document.getElementById("chatLog").innerHTML += "No entiendo, vuelve a ingresar<br>";
+                }
+            } 
+        </script>
+    </head>
+    <body>
+        <p id="chatLog">- - Bienvenidos a Easy Market Peru! - -<br></p>
+        <input id="userBox" type="text" onkeydown="if (event.keyCode == 13) {talk()}">
+
+    </body>
+</html>

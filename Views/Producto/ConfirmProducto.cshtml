@@ -1,0 +1,20 @@
+@model IEnumerable<FyJCel.Models.Producto>
+
+
+<!-- bootstrap Navbar  !-->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+<!--
+<h2>Lista Productos</h2>
+-->
+
+
+<form asp-action="ConfirmProducto" method="post">
+    <div class="form-group">
+      <label class="control-label">Ingrese su direccion para confirmar:</label><br/>
+      <input type="text"/><br/>
+      <input type="submit" value="Confirmar" class="btn btn-primary" />    
+    </div>
+</form>
